@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://waeci.github.io/soq/sitemap.soq.gz
